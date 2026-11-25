@@ -1,0 +1,160 @@
+{
+  "base": {
+    "nome": "SEERA Software Cost Estimation Dataset v1",
+    "doi": "10.5281/zenodo.3987969",
+    "licenca": "CC-BY 4.0",
+    "n_total": 120
+  },
+  "parametros": {
+    "alfa": 0.05,
+    "n_bootstrap": 10000,
+    "semente": 2026,
+    "H1": "unilateral (sem > com)"
+  },
+  "exclusoes_analise_principal": {
+    "preco_e_custo_faltantes('?')": 39,
+    "custo_real_nao_apurado('Not exist')": 16,
+    "preco_contratado_inexistente('Not exist')": 1,
+    "preco<=0": 0,
+    "vi_faltante": 0,
+    "outros": 0,
+    "checagem_max_diferenca_vs_base(pp)": 0.0
+  },
+  "n_analise_principal": {
+    "total": 64,
+    "Sem aprovação formal": 33,
+    "Com aprovação formal": 31
+  },
+  "n_projetos_por_grupo_total": {
+    "Sem aprovação formal": 70,
+    "Com aprovação formal": 50
+  },
+  "confirmatoria_estouro_custo": {
+    "shapiro_sem": {
+      "W": 0.630471279855486,
+      "p": 6.731678790252e-08
+    },
+    "shapiro_com": {
+      "W": 0.7512353869230398,
+      "p": 7.2900150661473624e-06
+    },
+    "normalidade_ok": false,
+    "teste_decisor": "Mann-Whitney U",
+    "welch": {
+      "t": 1.1467940866473254,
+      "gl": 61.975614581730866,
+      "p_unilateral": 0.12793747092945476
+    },
+    "mann_whitney": {
+      "U": 600.5,
+      "p_unilateral": 0.10468442954059254
+    },
+    "dif_medias": 10.6034083482418,
+    "dif_medianas": 0.0,
+    "hedges_g": 0.28296213841900836,
+    "cliffs_delta": 0.1739980449657869,
+    "prob_superioridade": 0.5869990224828935,
+    "ic95_dif_medias": [
+      -6.869563823048683,
+      28.42515958642728
+    ],
+    "ic95_dif_medianas": [
+      0.0,
+      3.6470588235294117
+    ],
+    "ic95_hedges_g": [
+      -0.19827509064872545,
+      0.7749597451755753
+    ],
+    "ic95_cliffs_delta": [
+      -0.10166177908113393,
+      0.4310850439882698
+    ],
+    "p_decisor": 0.10468442954059254,
+    "rejeita_H0": false,
+    "d_detectavel_poder80": 0.6288229570450059
+  },
+  "exploratoria_estouro_esforco": {
+    "shapiro_sem": {
+      "W": 0.5921309766938565,
+      "p": 1.2004581784569163e-12
+    },
+    "shapiro_com": {
+      "W": 0.8221502396371156,
+      "p": 2.9545570769309428e-06
+    },
+    "normalidade_ok": false,
+    "teste_decisor": "Mann-Whitney U",
+    "welch": {
+      "t": 0.1325538476697291,
+      "gl": 111.75177678502608,
+      "p_unilateral": 0.4473923072073928
+    },
+    "mann_whitney": {
+      "U": 1521.5,
+      "p_unilateral": 0.8898484998371605
+    },
+    "dif_medias": 2.8719954648525743,
+    "dif_medianas": -16.666666666666657,
+    "hedges_g": 0.022292667080659957,
+    "cliffs_delta": -0.13057142857142856,
+    "prob_superioridade": 0.4347142857142857,
+    "ic95_dif_medias": [
+      -36.88826247165533,
+      46.99775226757369
+    ],
+    "ic95_dif_medianas": [
+      -50.0,
+      10.0
+    ],
+    "ic95_hedges_g": [
+      -0.40969850217141807,
+      0.2908162906865957
+    ],
+    "ic95_cliffs_delta": [
+      -0.33629285714285717,
+      0.07057857142857132
+    ],
+    "p_decisor": 0.8898484998371605,
+    "rejeita_H0": false,
+    "d_detectavel_poder80": 0.463068269172072
+  },
+  "perfil_grupos_analise_principal": {
+    "Sem aprovação formal": {
+      "org_tipo_%": {
+        "Empresa privada de software": 45.5,
+        "Diretoria federal": 36.4,
+        "Universidade": 6.1,
+        "Empresa pública de software": 6.1,
+        "Freelancer": 3.0,
+        "Ministério federal": 3.0
+      },
+      "metodologia_%": {
+        "Cascata": 36.4,
+        "Ágil": 30.3,
+        "Híbrida": 30.3,
+        "Outra": 3.0
+      },
+      "ano_mediana": 2016.0,
+      "preco_contratado_mediana": 400000.0
+    },
+    "Com aprovação formal": {
+      "org_tipo_%": {
+        "Empresa privada de software": 41.9,
+        "Diretoria federal": 41.9,
+        "Freelancer": 9.7,
+        "Universidade": 3.2,
+        "Ministério federal": 3.2
+      },
+      "metodologia_%": {
+        "Híbrida": 48.4,
+        "Cascata": 25.8,
+        "Ágil": 22.6,
+        "Nenhuma": 3.2
+      },
+      "ano_mediana": 2012.0,
+      "preco_contratado_mediana": 225000.0
+    }
+  },
+  "numero_de_testes_de_hipotese": 2
+}

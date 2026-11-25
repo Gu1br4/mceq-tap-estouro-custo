@@ -1,0 +1,121 @@
+projID,ano,org_id,org_tipo,metodologia,aprovacao_requisitos,preco_contratado,custo_real,ganho_perda_original,esforco_estimado_h,esforco_real_h,grupo,estouro_custo_pct,estouro_esforco_pct,incluido_analise_principal
+1,2015,1,Empresa pública de software,Ágil,False,,,,2112,3168.0,Sem aprovação formal,,50.0,False
+2,2016,25,Empresa privada de software,Cascata,False,,,,1056,1584.0,Sem aprovação formal,,50.0,False
+3,2008,2,Empresa privada de software,Híbrida,True,40000.0,40000.0,0.0,3168,5280.0,Com aprovação formal,0.0,66.66666666666666,True
+4,2009,42,Diretoria federal,Ágil,False,1500000.0,1750000.0,-0.16666666666666666,5280,5280.0,Sem aprovação formal,16.666666666666664,0.0,True
+5,2016,42,Diretoria federal,Ágil,False,9000000000.0,10570000000.0,-0.17444444444444446,19008,38016.0,Sem aprovação formal,17.444444444444446,100.0,True
+6,2012,42,Diretoria federal,Ágil,False,254000000.0,254000000.0,0.0,7392,9856.0,Sem aprovação formal,0.0,33.33333333333333,True
+7,2016,42,Diretoria federal,Ágil,False,154000000.0,154000000.0,0.0,5280,7920.0,Sem aprovação formal,0.0,50.0,True
+8,2018,42,Diretoria federal,Híbrida,False,,,,4400,4400.0,Sem aprovação formal,,0.0,False
+9,2018,42,Diretoria federal,Ágil,False,200000000.0,200000000.0,0.0,4224,4224.0,Sem aprovação formal,0.0,0.0,True
+10,2015,3,Empresa privada de software,Híbrida,False,480000.0,480000.0,0.0,6468,24255.0,Sem aprovação formal,0.0,275.0,True
+11,2001,4,Diretoria federal,Híbrida,True,60000.0,75000.0,-0.25,8910,35640.0,Com aprovação formal,25.0,300.0,True
+12,2000,5,Empresa privada de software,Cascata,False,15000.0,15000.0,0.0,5280,7920.0,Sem aprovação formal,0.0,50.0,True
+13,2016,6,Empresa privada de software,Ágil,False,47500.0,,,880,1760.0,Sem aprovação formal,,100.0,False
+14,2009,6,Empresa privada de software,Prototipação,True,39000.0,,,1848,3080.0,Com aprovação formal,,66.66666666666666,False
+15,2010,6,Empresa privada de software,Prototipação,False,20000.0,,,1584,2112.0,Sem aprovação formal,,33.33333333333333,False
+16,2016,6,Empresa privada de software,Ágil,False,80000.0,,,1320,2640.0,Sem aprovação formal,,100.0,False
+17,2014,6,Empresa privada de software,Prototipação,False,40000.0,,,880,1760.0,Sem aprovação formal,,100.0,False
+18,2012,6,Empresa privada de software,Prototipação,False,8000.0,,,264,396.0,Sem aprovação formal,,50.0,False
+19,2014,6,Empresa privada de software,Prototipação,False,198672.0,,,2772,5544.0,Sem aprovação formal,,100.0,False
+20,2018,3,Empresa privada de software,Híbrida,True,216000.0,80000.0,0.6296296296296297,704,1232.0,Com aprovação formal,-62.96296296296296,75.0,True
+21,2015,7,Empresa privada de software,Ágil,False,1855000.0,3750000.0,-1.0215633423180592,50688,76032.0,Sem aprovação formal,102.15633423180593,50.0,True
+22,2000,8,Empresa privada de software,Híbrida,True,16600000.0,16600000.0,0.0,6336,9504.0,Com aprovação formal,0.0,50.0,True
+23,2009,9,Universidade,Cascata,True,,,,1584,2640.0,Com aprovação formal,,66.66666666666666,False
+24,2008,8,Empresa privada de software,Híbrida,True,,,,6336,6336.0,Com aprovação formal,,0.0,False
+25,2015,10,Empresa privada de software,Nenhuma,True,600000.0,600000.0,0.0,6336,13200.0,Com aprovação formal,0.0,108.33333333333333,True
+26,2011,11,Diretoria federal,Cascata,True,255000.0,212550.0,0.16647058823529412,264,792.0,Com aprovação formal,-16.647058823529413,200.0,True
+27,2018,3,Empresa privada de software,Híbrida,True,100000.0,75000.0,0.25,1155,1155.0,Com aprovação formal,-25.0,0.0,True
+28,2017,3,Empresa privada de software,Híbrida,False,35000.0,35000.0,0.0,1100,1100.0,Sem aprovação formal,0.0,0.0,True
+29,2009,3,Empresa privada de software,Híbrida,True,7000.0,7000.0,0.0,1100,5280.0,Com aprovação formal,0.0,380.0,True
+30,2013,5,Empresa privada de software,Cascata,False,25000.0,20000.0,0.2,5280,5808.0,Sem aprovação formal,-20.0,10.0,True
+31,2006,5,Empresa privada de software,Cascata,False,6000.0,6000.0,0.0,495,1155.0,Sem aprovação formal,0.0,133.33333333333331,True
+32,2018,5,Empresa privada de software,Híbrida,False,9000.0,18000.0,-1.0,616,1584.0,Sem aprovação formal,100.0,157.14285714285714,True
+33,2016,12,Empresa privada de software,Cascata,False,2500000.0,2500000.0,0.0,9240,29040.0,Sem aprovação formal,0.0,214.28571428571428,True
+34,2004,8,Empresa privada de software,Cascata,False,,,,2112,6336.0,Sem aprovação formal,,200.0,False
+35,2015,21,Freelancer,Cascata,True,,10000.0,,1584,3168.0,Com aprovação formal,,100.0,False
+36,2019,13,Empresa privada de software,Nenhuma,False,,,,1056,1056.0,Sem aprovação formal,,0.0,False
+37,2012,11,Diretoria federal,Híbrida,True,8160000.0,8515200.0,-0.04352941176470588,25344,38016.0,Com aprovação formal,4.352941176470588,50.0,True
+38,2018,11,Diretoria federal,Ágil,True,2550000.0,2457000.0,0.036470588235294116,8976,8976.0,Com aprovação formal,-3.6470588235294117,0.0,True
+39,2014,11,Diretoria federal,Híbrida,True,2550000.0,2406000.0,0.05647058823529412,10560,21120.0,Com aprovação formal,-5.647058823529412,100.0,True
+40,2016,14,Universidade,Cascata,False,,,,1056,12672.0,Sem aprovação formal,,1100.0,False
+41,2009,14,Universidade,Cascata,True,450000.0,1000000.0,-1.2222222222222223,5280,15840.0,Com aprovação formal,122.22222222222223,200.0,True
+42,2001,8,Empresa privada de software,Híbrida,True,,,,4752,7920.0,Com aprovação formal,,66.66666666666666,False
+43,2017,13,Empresa privada de software,Ágil,False,150000.0,150000.0,0.0,1056,1232.0,Sem aprovação formal,0.0,16.666666666666664,True
+44,2015,13,Empresa privada de software,Nenhuma,True,,,,3080,3080.0,Com aprovação formal,,0.0,False
+45,2017,15,Empresa privada de software,Híbrida,False,,,,1650,3300.0,Sem aprovação formal,,100.0,False
+46,2016,11,Diretoria federal,Híbrida,False,2550000.0,2482500.0,0.026470588235294117,4620,9240.0,Sem aprovação formal,-2.6470588235294117,100.0,True
+47,2018,11,Diretoria federal,Ágil,True,2550000.0,2457000.0,0.036470588235294116,11088,20328.0,Com aprovação formal,-3.6470588235294117,83.33333333333334,True
+48,2017,11,Diretoria federal,Ágil,False,1700000.0,1604000.0,0.05647058823529412,3696,5544.0,Sem aprovação formal,-5.647058823529412,50.0,True
+49,2012,11,Diretoria federal,Cascata,True,225000.0,123000.0,0.4533333333333333,462,924.0,Com aprovação formal,-45.33333333333333,100.0,True
+50,2012,11,Diretoria federal,Cascata,True,212500.0,187750.0,0.11647058823529412,462,924.0,Com aprovação formal,-11.647058823529411,100.0,True
+51,2016,11,Diretoria federal,Ágil,True,1275000.0,1164750.0,0.08647058823529412,1584,5808.0,Com aprovação formal,-8.647058823529411,266.66666666666663,True
+52,2016,11,Diretoria federal,Ágil,True,3570000.0,3618300.0,-0.013529411764705882,4928,8448.0,Com aprovação formal,1.352941176470588,71.42857142857143,True
+53,2012,11,Diretoria federal,Cascata,True,390000.0,229500.0,0.4115384615384615,1540,2310.0,Com aprovação formal,-41.15384615384615,50.0,True
+54,2017,13,Empresa privada de software,Cascata,False,165000.0,200000.0,-0.21212121212121213,1584,4752.0,Sem aprovação formal,21.21212121212121,200.0,True
+55,2014,14,Universidade,Cascata,False,,,,1056,1408.0,Sem aprovação formal,,33.33333333333333,False
+56,2005,14,Universidade,Híbrida,False,15000.0,17000.0,-0.13333333333333333,1056,3168.0,Sem aprovação formal,13.333333333333334,200.0,True
+57,2009,5,Empresa privada de software,Cascata,True,70000.0,70000.0,0.0,1056,1584.0,Com aprovação formal,0.0,50.0,True
+58,2015,11,Diretoria federal,Ágil,True,5440000.0,5513600.0,-0.013529411764705882,5632,8448.0,Com aprovação formal,1.352941176470588,50.0,True
+59,2017,42,Diretoria federal,Ágil,False,450000000.0,450000000.0,0.0,2112,2112.0,Sem aprovação formal,0.0,0.0,True
+60,2007,5,Empresa privada de software,Cascata,True,,,,880,1056.0,Com aprovação formal,,20.0,False
+61,2010,16,Empresa privada de software,Cascata,False,10000.0,10000.0,0.0,7920,6336.0,Sem aprovação formal,0.0,-20.0,True
+62,2017,5,Empresa privada de software,Cascata,True,,,,352,528.0,Com aprovação formal,,50.0,False
+63,2013,11,Diretoria federal,Híbrida,False,2500000.0,2500000.0,0.0,6336,8448.0,Sem aprovação formal,0.0,33.33333333333333,True
+64,2016,9,Universidade,Cascata,True,,,,2640,4224.0,Com aprovação formal,,60.0,False
+65,2011,17,Ministério federal,Híbrida,True,500000.0,500000.0,0.0,11616,17424.0,Com aprovação formal,0.0,50.0,True
+66,2006,18,Empresa privada de software,Híbrida,True,,,,14784,22176.0,Com aprovação formal,,50.0,False
+67,2006,18,Empresa privada de software,Híbrida,True,,,,3960,7920.0,Com aprovação formal,,100.0,False
+68,2014,7,Empresa privada de software,Híbrida,False,,,,17600,28160.0,Sem aprovação formal,,60.0,False
+69,2006,18,Empresa privada de software,Cascata,True,,,,1848,3696.0,Com aprovação formal,,100.0,False
+70,2018,19,Telecom,Ágil,False,,,,3168,4224.0,Sem aprovação formal,,33.33333333333333,False
+71,2018,42,Diretoria federal,Ágil,False,500000000.0,500000000.0,0.0,3168,3168.0,Sem aprovação formal,0.0,0.0,True
+72,2013,11,Diretoria federal,Cascata,True,210000.0,119700.0,0.43,1848,3696.0,Com aprovação formal,-43.0,100.0,True
+73,2011,11,Diretoria federal,Cascata,False,1275000.0,1177500.0,0.07647058823529412,11880,15840.0,Sem aprovação formal,-7.647058823529412,33.33333333333333,True
+74,2018,20,Empresa privada de software,Cascata,False,2000000.0,2000000.0,0.0,26928,44880.0,Sem aprovação formal,0.0,66.66666666666666,True
+75,2016,12,Empresa privada de software,Cascata,False,,,,12672,33792.0,Sem aprovação formal,,166.66666666666669,False
+76,2017,22,Empresa privada de software,Híbrida,False,223726.0,,,11264,18304.0,Sem aprovação formal,,62.5,False
+77,2016,22,Empresa privada de software,Híbrida,False,1600000.0,1450000.0,0.09375,12672,9504.0,Sem aprovação formal,-9.375,-25.0,True
+78,2008,5,Empresa privada de software,Cascata,True,,,,462,577.5,Com aprovação formal,,25.0,False
+79,2015,2,Empresa privada de software,Híbrida,True,34000.0,34000.0,0.0,2640,4400.0,Com aprovação formal,0.0,66.66666666666666,True
+80,2014,2,Empresa privada de software,Híbrida,True,250000.0,250000.0,0.0,4224,8448.0,Com aprovação formal,0.0,100.0,True
+81,2013,44,Freelancer,Híbrida,True,10000.0,10000.0,0.0,1408,1760.0,Com aprovação formal,0.0,25.0,True
+82,2010,44,Freelancer,Cascata,True,2000.0,2000.0,0.0,2816,2816.0,Com aprovação formal,0.0,0.0,True
+83,2009,23,Empresa pública de software,Outra,False,76000.0,76000.0,0.0,1584,4752.0,Sem aprovação formal,0.0,200.0,True
+84,2018,23,Empresa pública de software,Cascata,False,100000.0,50000.0,0.5,1760,2640.0,Sem aprovação formal,-50.0,50.0,True
+85,2004,45,Freelancer,Híbrida,False,7000.0,8000.0,-0.14285714285714285,2112,2640.0,Sem aprovação formal,14.285714285714285,25.0,True
+86,2002,45,Freelancer,Híbrida,True,10000.0,10000.0,0.0,1540,2200.0,Com aprovação formal,0.0,42.857142857142854,True
+87,2004,3,Empresa privada de software,Híbrida,True,50000.0,25000.0,0.5,4224,12672.0,Com aprovação formal,-50.0,200.0,True
+88,2007,3,Empresa privada de software,Híbrida,False,8000.0,8000.0,0.0,176,792.0,Sem aprovação formal,0.0,350.0,True
+89,1997,3,Empresa privada de software,Híbrida,True,15000.0,30000.0,-1.0,2640,10560.0,Com aprovação formal,100.0,300.0,True
+90,2013,24,Ministério federal,Híbrida,False,,,,2640,3520.0,Sem aprovação formal,,33.33333333333333,False
+91,2016,24,Ministério federal,Nenhuma,False,,,,880,4224.0,Sem aprovação formal,,380.0,False
+92,2017,27,Ministério federal,Cascata,False,60000.0,40000.0,0.3333333333333333,2904,1936.0,Sem aprovação formal,-33.33333333333333,-33.33333333333333,True
+93,2017,27,Ministério federal,Cascata,False,,,,1056,2112.0,Sem aprovação formal,,100.0,False
+94,2014,26,Telecom,Cascata,False,,,,2673,3861.0,Sem aprovação formal,,44.44444444444444,False
+95,2016,7,Empresa privada de software,Ágil,True,300000.0,300000.0,0.0,31680,79200.0,Com aprovação formal,0.0,150.0,True
+96,2006,31,Empresa privada de software,Cascata,False,60000.0,60000.0,0.0,3696,7392.0,Sem aprovação formal,0.0,100.0,True
+97,2019,32,Empresa privada de software,Ágil,True,45000.0,55000.0,-0.2222222222222222,704,704.0,Com aprovação formal,22.22222222222222,0.0,True
+98,2019,28,Empresa privada de software,Ágil,False,,,,1760,3520.0,Sem aprovação formal,,100.0,False
+99,2018,33,Telecom,Ágil,True,,,,3168,2904.0,Com aprovação formal,,-8.333333333333332,False
+100,2019,29,Empresa privada de software,Híbrida,False,,,,2112,704.0,Sem aprovação formal,,-66.66666666666666,False
+101,2016,30,Empresa privada de software,Cascata,True,,,,264,528.0,Com aprovação formal,,100.0,False
+102,2005,18,Empresa privada de software,Híbrida,False,,,,1320,1760.0,Sem aprovação formal,,33.33333333333333,False
+103,2016,9,Ministério federal,Cascata,True,,,,4224,5632.0,Com aprovação formal,,33.33333333333333,False
+104,1994,35,Empresa privada de software,Cascata,False,1200000.0,,,8910,14850.0,Sem aprovação formal,,66.66666666666666,False
+105,1993,35,Empresa privada de software,Cascata,False,1200000.0,,,10692,17820.0,Sem aprovação formal,,66.66666666666666,False
+106,2001,6,Empresa privada de software,Híbrida,False,18000000.0,,,5346,5346.0,Sem aprovação formal,,0.0,False
+107,2002,6,Empresa privada de software,Híbrida,False,2200000.0,,,10692,10692.0,Sem aprovação formal,,0.0,False
+108,1998,35,Empresa privada de software,Cascata,False,320000.0,,,10692,10692.0,Sem aprovação formal,,0.0,False
+109,2018,6,Empresa privada de software,Híbrida,False,350000.0,,,8019,8019.0,Sem aprovação formal,,0.0,False
+110,1997,35,Empresa privada de software,Cascata,False,600000.0,,,14256,10692.0,Sem aprovação formal,,-25.0,False
+111,2001,6,Empresa privada de software,Híbrida,False,9000000.0,,,8019,10692.0,Sem aprovação formal,,33.33333333333333,False
+112,2017,33,Telecom,Ágil,False,,,,3520,4224.0,Sem aprovação formal,,20.0,False
+113,2018,36,Empresa privada de software,Ágil,True,,,,4158,6534.0,Com aprovação formal,,57.14285714285714,False
+114,2019,37,Empresa privada de software,Ágil,False,,,,1485,3465.0,Sem aprovação formal,,133.33333333333331,False
+115,2017,39,Depto. de TI corporativo,Híbrida,True,,,,9152,16016.0,Com aprovação formal,,75.0,False
+116,2018,38,Empresa pública de software,Ágil,False,,,,528,792.0,Sem aprovação formal,,50.0,False
+117,1998,4,Diretoria federal,Cascata,False,100000.0,100000.0,0.0,7128,21384.0,Sem aprovação formal,0.0,200.0,True
+118,2006,14,Universidade,Cascata,True,,,,352,880.0,Com aprovação formal,,150.0,False
+119,2016,43,Depto. de TI corporativo,Híbrida,False,,,,792,3168.0,Sem aprovação formal,,300.0,False
+120,2016,14,Universidade,Híbrida,False,400000.0,1000000.0,-1.5,6336,19008.0,Sem aprovação formal,150.0,200.0,True

@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+~$*.docx
+
+# material interno da equipe (não vai para o repositório público)
+GUIA_DA_EQUIPE.md
+docs/roteiro_video.md
+artigo/
