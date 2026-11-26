@@ -5,7 +5,7 @@
 | Campo | Conteúdo |
 |---|---|
 | **EQUIPE / MEMBROS** | _[preencher: nomes e RA]_ |
-| **PROBLEMA (lacuna)** | O Termo de Abertura do Projeto (TAP) é prescrito pelo PMBOK como o documento que autoriza o projeto, registra requisitos de alto nível e o orçamento resumido. Há pouca evidência empírica, com dados públicos e fora de ambientes norte-americanos/europeus, de que essa formalização inicial esteja associada a menor estouro de custo em projetos de software. |
+| **PROBLEMA (lacuna)** | O Termo de Abertura do Projeto (TAP) é prescrito pelo PMBOK como o documento que autoriza o projeto, registra requisitos de alto nível e os recursos financeiros pré-aprovados. Há pouca evidência empírica, com dados públicos e fora de ambientes norte-americanos/europeus, de que essa formalização inicial esteja associada a menor estouro de custo em projetos de software. |
 | **PERGUNTA DE PESQUISA** | Em projetos de desenvolvimento de software (120 projetos de 42 organizações do Sudão, base SEERA), projetos **sem** aprovação formal dos requisitos pela alta gestão (proxy de ausência de TAP) apresentam **maior percentual de estouro de custo** (custo real vs. preço contratado) do que projetos **com** essa aprovação? |
 | **H0** | µ_sem ≤ µ_com — o estouro de custo médio dos projetos sem aprovação formal não é maior que o dos projetos com aprovação. (Versão não paramétrica: P(X_sem > X_com) ≤ 0,5.) |
 | **H1** ☒ unilateral ☐ bilateral | µ_sem > µ_com — projetos sem aprovação formal apresentam estouro de custo maior. (Não paramétrica: P(X_sem > X_com) > 0,5.) Unilateral porque a pergunta é direcional. |
